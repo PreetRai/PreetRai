@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prithvi Raimangya</h1>
-<h3 align="center">A software developer currently based in New York City. I have experience in various languages and frameworks including C++, Java, Python, and JavaScript, as well as proficiency in design initiative and tools like Adobe XD and Figma. My academic projects, including web applications using ReactJS and NodeJS, showcase my ability to collaborate effectively and deliver seamless user experiences. Beyond academics, I'm passionate about exploring new technologies and contributing to open-source projects on GitHub. With my dedication and technical expertise, I'm ready to make significant contributions to the software development field. Connect with me on LinkedIn or explore my projects on GitHub to learn more about my work.</h3>
+<h3 align="center">A software developer based in New York City. I have experience in various languages and frameworks including C++, Java, Python, and JavaScript, as well as proficiency in design initiatives and tools like Adobe XD and Figma. My academic projects, including ReactJS and NodeJS web applications, showcase my ability to collaborate effectively and deliver seamless user experiences. Beyond academics, I'm passionate about exploring new technologies and contributing to open-source projects on GitHub. With my dedication and technical expertise, I'm ready to significantly contribute to the software development field. Connect with me on LinkedIn or explore my projects on GitHub to learn more about my work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetrai&label=Profile%20views&color=0e75b6&style=flat" alt="preetrai" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prithviraimangya@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cmOD2O6_0xCMFS4ZC68fo1I04xfO0QQj/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xuU4EkzaSpAr0F6vz-rd-Orwcb-RtqzG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
