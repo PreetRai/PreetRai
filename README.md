@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetrai" alt="preetrai" /></a> </p>
 
+- 💻 trying to make world a better place with [ShopTaki](https://www.shoptaki.com/)
+
 - 🔭 I’m currently working on [Med-X Ai](https://github.com/htmw/2024S-Med-X)
 
 - 📫 How to reach me **prithviraimangya@gmail.com**
