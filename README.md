@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prithvi Raimangya</h1>
-<h3 align="center">A software developer based in New York City. I have experience in various languages and frameworks including C++, Java, Python, and JavaScript, as well as proficiency in design initiatives and tools like Adobe XD and Figma. My academic projects, including ReactJS and NodeJS web applications, showcase my ability to collaborate effectively and deliver seamless user experiences. Beyond academics, I'm passionate about exploring new technologies and contributing to open-source projects on GitHub. With my dedication and technical expertise, I'm ready to significantly contribute to the software development field. Connect with me on LinkedIn or explore my projects on GitHub to learn more about my work.</h3>
+<h3 align="justify">A software developer based in New York City. I have experience in various languages and frameworks including C++, Java, Python, and JavaScript, as well as proficiency in design initiatives and tools like Adobe XD and Figma. My academic projects, including ReactJS and NodeJS web applications, showcase my ability to collaborate effectively and deliver seamless user experiences. Beyond academics, I'm passionate about exploring new technologies and contributing to open-source projects on GitHub. With my dedication and technical expertise, I'm ready to significantly contribute to the software development field. Connect with me on LinkedIn or explore my projects on GitHub to learn more about my work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetrai&label=Profile%20views&color=0e75b6&style=flat" alt="preetrai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetrai" alt="preetrai" /></a> </p>
 
-- 💻 trying to make world a better place with [ShopTaki](https://www.shoptaki.com/)
+- 💻 trying to make the world a better and safer place with [ShopTaki](https://www.shoptaki.com/)
 
 - 🔭 I’m currently working on [Med-X Ai](https://github.com/htmw/2024S-Med-X)
 
