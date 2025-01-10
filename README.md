@@ -6,8 +6,6 @@
 
 - 💻 trying to make the world a better and safer place with [ShopTaki](https://www.shoptaki.com/)
 
-- 🔭 I’m currently working on [Med-X Ai](https://github.com/htmw/2024S-Med-X)
-
 - 📫 How to reach me **prithviraimangya@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xuU4EkzaSpAr0F6vz-rd-Orwcb-RtqzG/view?usp=drive_link)
