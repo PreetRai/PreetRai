@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetrai&label=Profile%20views&color=0e75b6&style=flat" alt="preetrai" /> </p>
 
 
-- 💻 trying to make the world a better and safer place with [ShopTaki](https://www.shoptaki.com/)
 
 - 📫 How to reach me **prithviraimangya@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xuU4EkzaSpAr0F6vz-rd-Orwcb-RtqzG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
